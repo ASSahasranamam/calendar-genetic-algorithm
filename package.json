@@ -1,0 +1,11 @@
+{
+  "name": "calendar-genetic-algorithm",
+  "version": "0.0.0",
+  "description": "A nodejs genetic algorithm desgined to work with angular-calendar for scheduling events. - Adi",
+  "main": "index.js",
+  "scripts": {
+    "test"  : "node test.js"
+  },
+  "author": "Adi Subramanian Sahasranamam <adi.sahasranamam@gmail.com>",
+  "license": "ISC"
+}
